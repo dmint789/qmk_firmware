@@ -47,3 +47,12 @@
         #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
     #endif
 #endif
+
+// MY OLD STUFF FROM BEFORE I REFRESHED MY LOCAL REPO
+// My additions
+//#define SPLIT_USB_DETECT
+// Default is 2000
+//#define SPLIT_USB_TIMEOUT 10000
+//#define SPLIT_WATCHDOG_ENABLE
+// Default is 3000
+//#define SPLIT_WATCHDOG_TIMEOUT 3000
